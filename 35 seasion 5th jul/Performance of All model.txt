@@ -1,0 +1,41 @@
+KNN Regressor:
+
+KNN K Value: 2
+Mean Absolute Error (MAE): 2.895
+Mean Squared Error (MSE): 17.162
+Root Mean Squared Error (RMSE): 4.143
+Mean Absolute Percentage Error (MAPE): 14.2 %
+R2_score: 0.769675
+Adj R Square:  0.764
+-----------------------------------------------------------------------------
+
+RF Regressor:
+
+Mean Absolute Error (MAE): 2.357
+Mean Squared Error (MSE): 10.316
+Root Mean Squared Error (RMSE): 3.212
+Mean Absolute Percentage Error (MAPE): 12.4 %
+R2_score: 0.86156
+Adj R Square:  0.858
+
+-----------------------------------------------------------------------------
+
+Decision Tree Regressor:
+
+Mean Absolute Error (MAE): 3.172
+Mean Squared Error (MSE): 18.807
+Root Mean Squared Error (RMSE): 4.337
+Mean Absolute Percentage Error (MAPE): 16.6 %
+R2_score: 0.747596
+Adj R Square:  0.741
+
+-----------------------------------------------------------------------------
+
+Multi-Linear Regression:
+
+Mean Absolute Error (MAE): 3.412
+Mean Squared Error (MSE): 22.537
+Root Mean Squared Error (RMSE): 4.747
+Mean Absolute Percentage Error (MAPE): 18.099999999999998 %
+R2_score: 0.697546
+Adj R Square:  0.69

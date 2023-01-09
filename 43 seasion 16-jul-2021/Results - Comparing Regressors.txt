@@ -1,0 +1,88 @@
+
+
+Multi-Regression:
+Mean Absolute Error (MAE): 3.412
+Mean Squared Error (MSE): 22.537
+Root Mean Squared Error (RMSE): 4.747
+Mean Absolute Percentage Error (MAPE): 18.099999999999998 %
+R2_score: 0.697546
+Adj R Square:  0.688922
+
+DC Regressor:
+Mean Absolute Error (MAE): 3.264
+Mean Squared Error (MSE): 24.101
+Root Mean Squared Error (RMSE): 4.909
+Mean Absolute Percentage Error (MAPE): 17.560000000000002 %
+R2_score: 0.676554
+Adj R Square:  0.667332
+
+RF Regressor:	04 - 03 - 01 - 06
+01) Mean Absolute Error (MAE): 2.371
+02) Mean Squared Error (MSE): 10.383
+03) Root Mean Squared Error (RMSE): 3.222
+04) Mean Absolute Percentage Error (MAPE): 12.57 %
+05) R2_score: 0.860657
+06) Adj R Square:  0.856684
+
+SVR - Gaussian
+Mean Absolute Error (MAE): 3.235
+Mean Squared Error (MSE): 27.347
+Root Mean Squared Error (RMSE): 5.229
+Mean Absolute Percentage Error (MAPE): 15.58 %
+R2_score: 0.632984
+Adj R Square:  0.622519
+
+KNN Regressor:
+Mean Absolute Error (MAE): 2.919
+Mean Squared Error (MSE): 21.029
+Root Mean Squared Error (RMSE): 4.586
+Mean Absolute Percentage Error (MAPE): 13.96 %
+R2_score: 0.717785
+Adj R Square:  0.709738
+===============================================================
+RF Regressor:	04 - 03 - 01 - 06
+01) Mean Absolute Error (MAE): 2.371
+02) Mean Squared Error (MSE): 10.383
+03) Root Mean Squared Error (RMSE): 3.222
+04) Mean Absolute Percentage Error (MAPE): 12.57 %
+05) R2_score: 0.860657
+06) Adj R Square:  0.856684
+
+RF Regressor with GridSearchCV
+Mean Absolute Error (MAE): 2.429
+Mean Squared Error (MSE): 13.732
+Root Mean Squared Error (RMSE): 3.706
+Mean Absolute Percentage Error (MAPE): 12.27 %
+R2_score: 0.85395
+Adj R Square: 0.849786
+
+Mean Absolute Error (MAE): 2.348
+Mean Squared Error (MSE): 10.699
+Root Mean Squared Error (RMSE): 3.271
+Mean Absolute Percentage Error (MAPE): 12.1 %
+R2_score: 0.85641
+Adj R Square:  0.852316
+
+RF Regressor with RandomizedSearchCV
+Mean Absolute Error (MAE): 2.277
+Mean Squared Error (MSE): 11.121
+Root Mean Squared Error (RMSE): 3.335
+Mean Absolute Percentage Error (MAPE): 11.709999999999999 %
+R2_score: 0.881721
+Adj R Square: 0.878348
+MAE------------------------------------------------------->
+Mean Absolute Error (MAE): 2.29
+Mean Squared Error (MSE): 9.699
+Root Mean Squared Error (RMSE): 3.114
+Mean Absolute Percentage Error (MAPE): 11.78 %
+R2_score: 0.869837
+Adj R Square:  0.866126
+
+
+
+
+
+
+
+
+
